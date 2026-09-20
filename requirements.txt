@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-telegram-bot==21.4
+redis>=5.0
+python-chess>=1.10
+pydantic>=2.5
